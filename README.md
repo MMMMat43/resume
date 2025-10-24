@@ -1,10 +1,11 @@
 # 👨‍💻 QA Engineer (Manual / AQA, Python / Playwright)
 
-![QA Engineer](https://img.shields.io/badge/Role-QA%20Engineer-1abc9c?style=for-the-badge&logo=qaengineer)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Playwright](https://img.shields.io/badge/Playwright-8e44ad?style=for-the-badge&logo=playwright)  
-![Middle Level](https://img.shields.io/badge/Level-Middle-3498db?style=for-the-badge)  
-![Automation](https://img.shields.io/badge/Automation-Pytest%20%2B%20API-f39c12?style=for-the-badge)
+![QA Badge](https://img.shields.io/badge/Role-QA%20Engineer-blue?style=flat-square)
+![Python Badge](https://img.shields.io/badge/Language-Python-yellow?style=flat-square)
+![Playwright Badge](https://img.shields.io/badge/Framework-Playwright-green?style=flat-square)
+![Status Badge](https://img.shields.io/badge/Level-Middle-brightgreen?style=flat-square)
+![AQA Badge](https://img.shields.io/badge/Automation-Pytest%20%2B%20API-orange?style=flat-square)
+
 
 ---
 
