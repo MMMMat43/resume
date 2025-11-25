@@ -112,7 +112,6 @@ Strong analytical thinking, attention to detail, and goal-oriented approach.
 
 ### 💼 Work Experience
 **QA Engineer (Manual)** — [CarPrice](https://carprice.ru/)  
-📅 09.2025 – Present | 📍 Full-time  
 
 **Project:** large-scale corporate product with **microservices architecture** (web apps, internal services, client websites).  
 Integrations via **REST API, RabbitMQ**, external services.
