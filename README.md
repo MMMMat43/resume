@@ -7,7 +7,12 @@
 ![AQA Badge](https://img.shields.io/badge/Automation-Pytest%20%2B%20API-orange?style=flat-square)
 
 ---
+Кожин Матвей Сергеевич 22 года
 
+### 🌐 Контакты
+📫 [Telegram](https://t.me/Ttalaant) | 💼 [GitHub](https://github.com/MMMMat43) | 📧 motokolos@yandex.ru | моб. телефон 89229368012 | 🌍 Россия / Remote
+
+---
 ## 🇷🇺 Русская версия
 
 ### 👤 О себе
@@ -85,9 +90,6 @@
 - Командная работа  
 - Инициативность и ориентация на результат  
 - Быстрая обучаемость  
-
-### 🌐 Контакты
-📫 [Telegram](https://t.me/Ttalaant) | 💼 [GitHub](https://github.com/MMMMat43) | 📧 motokolos@yandex.ru | 🌍 Россия / Remote
 
 ---
 
