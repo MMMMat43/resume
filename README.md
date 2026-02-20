@@ -1,187 +1,186 @@
-# 👨‍💻 QA Engineer (Manual / AQA, Python / Playwright)
+# 👨‍💻 QA Engineer / Project Manager (Manual / AQA, Python / Playwright)
 
-![QA Badge](https://img.shields.io/badge/Role-QA%20Engineer-blue?style=flat-square)
-![Python Badge](https://img.shields.io/badge/Language-Python-yellow?style=flat-square)
-![Playwright Badge](https://img.shields.io/badge/Framework-Playwright-green?style=flat-square)
-![Status Badge](https://img.shields.io/badge/Level-Middle-brightgreen?style=flat-square)
-![AQA Badge](https://img.shields.io/badge/Automation-Pytest%20%2B%20API-orange?style=flat-square)
+Кожин Матвей Сергеевич, 22 года  
+Россия / Remote  
 
----
-Кожин Матвей Сергеевич 22 года
-
-### 🌐 Контакты
-📫 [Telegram](https://t.me/Ttalaant) | 💼 [GitHub](https://github.com/MMMMat43) | 📧 motokolos@yandex.ru | моб. телефон 89229368012 | 🌍 Россия / Remote
+📫 Telegram: https://t.me/Ttalaant  
+💼 GitHub: https://github.com/MMMMat43  
+📧 motokolos@yandex.ru  
+📱 89229368012  
 
 ---
-## 🇷🇺 Русская версия
 
-### 👤 О себе
-Ручной тестировщик (**Manual QA Engineer**) с опытом работы над крупным микросервисным проектом и навыками **автоматизации тестирования (AQA)**.  
-Владею современными инструментами QA, участвую в полном цикле тестирования — от анализа требований до релиза.  
-Развиваюсь в направлении **Python, Playwright, Pytest, REST API**, CI/CD.  
-Обладаю аналитическим мышлением, вниманием к деталям и стремлением улучшать QA-процессы.
+## 👤 О себе
 
-### 🎯 Специализация
-- 🧪 Manual QA Engineer (Middle)  
-- ⚙️ QA Automation Engineer (Python / Playwright) (Junior)  
-- ☁️ Микросервисные и распределённые системы  
-- 🧭 Agile / Scrum / Kanban
+QA Engineer с опытом работы в крупном микросервисном проекте и практическим опытом управления IT-проектами.  
+Участвую в полном цикле разработки: от анализа требований и планирования до релиза и пост-релизной поддержки.
 
-### 💼 Опыт работы
-**QA Engineer (Manual)** — [CarPrice](https://carprice.ru/)  
-1 год 3 месяца
+Имею опыт:
+- управления небольшими IT-проектами  
+- коммуникации с заказчиками  
+- декомпозиции задач и контроля сроков  
+- улучшения QA-процессов  
+- автоматизации тестирования  
 
-**Проект:** крупный корпоративный продукт на **микросервисной архитектуре** (веб-приложения, внутренние сервисы, клиентские сайты).  
-Интеграции через **REST API, RabbitMQ**, внешние сервисы.
+Развиваюсь в направлениях **Project Management, Automation QA и системной аналитики**.  
+Ориентирован на качество продукта, прозрачность процессов и результат.
 
-**Обязанности:**  
+---
+
+## 🎯 Специализация
+
+- QA Engineer (Manual / Automation) — Middle  
+- QA Automation Engineer (Python / Playwright) — Junior
+- Project Manager / IT Project Lead — Junior  
+- Микросервисная архитектура  
+- Agile / Scrum / Kanban  
+
+---
+
+## 💼 Опыт работы
+
+### QA Engineer (Manual) — CarPrice  
+1 год 3 месяца  
+
+**Проект:** крупный корпоративный продукт на микросервисной архитектуре  
+(веб-приложения, внутренние сервисы, клиентские сайты).  
+Интеграции через REST API, RabbitMQ, внешние сервисы.
+
+### Обязанности:
+
 - Ручное тестирование веб-приложений и REST API  
-- Анализ требований (**Confluence**) и проектирование тест-кейсов  
+- Анализ требований (Confluence)  
+- Проектирование тест-кейсов и чек-листов  
 - Функциональное, интеграционное, регрессионное и smoke-тестирование  
 - API-тестирование через Postman  
-- Анализ трафика (**Charles Proxy, Jaeger UI**)  
-- Проверка данных в **PostgreSQL / MongoDB** через DBeaver  
+- Анализ трафика (Charles Proxy, Jaeger UI)  
+- Проверка данных в PostgreSQL / MongoDB через DBeaver  
 - Ведение баг-репортов и задач в Jira  
 - Участие в Agile-церемониях  
+- Взаимодействие с разработчиками, аналитиками и менеджерами  
 
-**Достижения:**  
-- Оптимизация регрессионного тестирования, сокращение времени на **7%**  
-- Улучшение качества баг-репортов, сокращение времени воспроизведения дефектов на **20%**  
-- Освоение **Playwright** и создание **UI smoke & sanity тестов**
+### Достижения:
 
-### ⚙️ Автоматизация (AQA)
-| Категория | Инструменты |
-|-----------|-------------|
-| Язык | Python (pytest, requests, json, os, logging) |
-| Фреймворк | Playwright (UI automation, POM, локаторы, ожидания) |
-| API-тестирование | pytest + requests |
-| Отчётность | Allure Reports |
-| CI/CD | GitHub Actions, Docker |
-| Контроль версий | Git (branch, merge, rebase) |
+- Оптимизация регрессионного тестирования (−7% времени выполнения)  
+- Улучшение качества баг-репортов (−20% времени воспроизведения дефектов)  
+- Освоение Playwright и внедрение UI smoke / sanity тестов  
 
-### 🧰 Технический стек
-| Область | Технологии |
-|---------|------------|
-| Языки | Python, C#, Java, JavaScript, SQL, C++ |
-| Базы | PostgreSQL, MySQL, MongoDB |
-| API | Postman, Swagger/OpenAPI |
-| Трассировка | Charles Proxy, Jaeger UI |
-| Очереди | RabbitMQ |
-| Контейнеризация | Docker, Kubernetes (k9s) |
-| Документация | Confluence, draw.io |
-| Задачи | Jira (Agile/Scrum/Kanban) |
-| IDE | PyCharm, VS Code, IntelliJ IDEA, Rider, Visual Studio |
+---
 
-<details>
-<summary>📚 Теоретические знания</summary>
+## 📌 Опыт управления проектами
+
+### Project Manager (внутренние и pet-проекты)
+
+### 1. Система автоматизированного SEO
+
+- Организация процесса разработки  
+- Сбор и формализация требований  
+- Декомпозиция задач  
+- Постановка задач разработчикам  
+- Контроль сроков и статусов  
+- Планирование спринтов  
+- Работа с бэклогом  
+- Участие в тестировании и приемке  
+
+---
+
+### 2. Платформа аренды фотостудий
+
+- Управление циклом разработки  
+- Планирование этапов реализации  
+- Коммуникация с участниками проекта  
+- Контроль выполнения задач  
+- Участие в UX-обсуждениях  
+- Проведение приемочного тестирования  
+
+---
+
+### 3. Участие в запуске новых проектов (Discovery / Pre-sale)
+
+- Обсуждение новых инициатив  
+- Первичный анализ требований  
+- Оценка сроков и рисков  
+- Подготовка технической документации  
+- Участие в формировании roadmap  
+
+---
+
+## ⚙️ Автоматизация (AQA)
+
+**Язык:** Python (pytest, requests, json, os, logging)  
+**UI-автоматизация:** Playwright (POM, локаторы, ожидания)  
+**API-тестирование:** pytest + requests  
+**Отчётность:** Allure Reports  
+**CI/CD:** GitHub Actions  
+**Контейнеризация:** Docker  
+**Контроль версий:** Git (branch, merge, rebase)
+
+---
+
+## 🧰 Технический стек
+
+**Языки:** Python, C#, Java, JavaScript, SQL, C++  
+**Базы данных:** PostgreSQL, MySQL, MongoDB  
+**API-инструменты:** Postman, Swagger/OpenAPI  
+**Трассировка и анализ:** Charles Proxy, Jaeger UI  
+**Очереди:** RabbitMQ  
+**Контейнеризация:** Docker, Kubernetes (k9s)  
+**Документация:** Confluence, draw.io  
+**Таск-менеджмент:** Jira (Agile / Scrum / Kanban)  
+**IDE:** PyCharm, VS Code, IntelliJ IDEA, Rider, Visual Studio  
+
+---
+
+## 🧠 Дополнительные компетенции (QA + PM)
+
+- Управление задачами и приоритетами  
+- Планирование спринтов  
+- Контроль сроков и рисков  
+- Работа с бэклогом  
+- Анализ требований  
+- Улучшение QA-процессов  
+- Контроль качества релизов  
+- Коммуникация с заказчиками  
+- Системное мышление  
+
+---
+
+## 📚 Теоретические знания
+
 - Принципы тестирования (ISTQB)  
 - Уровни тестирования: Unit, Integration, System, Regression  
-- Техники: Эквивалентное разделение, Анализ граничных значений, Таблицы решений, Попарное тестирование  
-- Жизненный цикл дефекта, severity / priority  
-- SDLC / STLC, Agile / Scrum  
+- Техники тест-дизайна:  
+  - Эквивалентное разделение  
+  - Анализ граничных значений  
+  - Таблицы решений  
+  - Попарное тестирование  
+- Жизненный цикл дефекта (severity / priority)  
+- SDLC / STLC  
+- Agile / Scrum  
 - BPMN, IDEF0  
-- ООП, структуры данных  
-- REST / Client-Server  
-</details>
+- REST / Client-Server архитектура  
+- Основы ООП и структур данных  
 
-### 💬 Soft Skills
-- Аналитическое мышление, внимание к деталям  
-- Самоорганизация, дисциплина  
+---
+
+## 💬 Soft Skills
+
+- Аналитическое и критическое мышление  
+- Лидерские качества  
+- Ответственность  
+- Проактивность  
+- Самоорганизация  
 - Командная работа  
-- Инициативность и ориентация на результат  
-- Быстрая обучаемость  
+- Стрессоустойчивость  
+- Ориентация на результат  
 
 ---
 
-## 🇬🇧 English Version
+## 🌍 Языки
 
-### 👤 About Me
-Manual QA Engineer with experience in **large-scale microservices projects** and practical skills in **automation testing (AQA)**.  
-Proficient in modern QA tools, involved in **full testing cycle** from requirements analysis to release.  
-Developing skills in **Python, Playwright, Pytest, REST API**, and CI/CD.  
-Strong analytical thinking, attention to detail, and goal-oriented approach.
-
-### 🎯 Specialization
-- 🧪 Manual QA Engineer (Middle)  
-- ⚙️ QA Automation Engineer (Python / Playwright) (Junior)  
-- ☁️ Microservices & distributed systems  
-- 🧭 Agile / Scrum / Kanban  
-
-### 💼 Work Experience
-**QA Engineer (Manual)** — [CarPrice](https://carprice.ru/)  
-
-**Project:** large-scale corporate product with **microservices architecture** (web apps, internal services, client websites).  
-Integrations via **REST API, RabbitMQ**, external services.
-
-**Responsibilities:**  
-- Manual testing of web apps and REST APIs  
-- Requirements analysis (**Confluence**) & test case design  
-- Functional, integration, regression, and smoke testing  
-- API testing via Postman  
-- Traffic & distributed tracing (**Charles Proxy, Jaeger UI**)  
-- Data verification (**PostgreSQL / MongoDB**) via DBeaver  
-- Bug reporting & Jira task management  
-- Agile ceremonies  
-
-**Achievements:**  
-- Optimized regression testing, reducing execution time by **7%**  
-- Improved bug report quality, decreasing defect reproduction time by **20%**  
-- Learned **Playwright** and created **UI smoke & sanity tests**
-
-### ⚙️ Automation (AQA)
-| Category | Tools |
-|----------|-------|
-| Language | Python (pytest, requests, json, os, logging) |
-| Framework | Playwright (UI automation, POM, locators, waits) |
-| API Testing | pytest + requests |
-| Reporting | Allure Reports |
-| CI/CD | GitHub Actions, Docker |
-| Version Control | Git (branch, merge, rebase) |
-
-### 🧰 Technical Stack
-| Area | Technologies |
-|------|-------------|
-| Languages | Python, C#, Java, JavaScript, SQL, C++ |
-| Databases | PostgreSQL, MySQL, MongoDB |
-| API Tools | Postman, Swagger/OpenAPI |
-| Traffic / Tracing | Charles Proxy, Jaeger UI |
-| Queues | RabbitMQ |
-| Containerization | Docker, Kubernetes (k9s) |
-| Documentation | Confluence, draw.io |
-| Task Management | Jira (Agile/Scrum/Kanban) |
-| IDE | PyCharm, VS Code, IntelliJ IDEA, Rider, Visual Studio |
-
-<details>
-<summary>📚 Theoretical Knowledge</summary>
-- Software Testing Principles (ISTQB)  
-- Testing levels: Unit, Integration, System, Regression  
-- Test design techniques: Equivalence Partitioning, Boundary Value Analysis, Decision Tables, Pairwise Testing  
-- Defect lifecycle, severity / priority  
-- SDLC / STLC, Agile / Scrum  
-- BPMN, IDEF0  
-- OOP, Data Structures  
-- REST / Client-Server Architecture  
-</details>
-
-### 💬 Soft Skills
-- Analytical & critical thinking  
-- Attention to detail  
-- Self-organization & discipline  
-- Team collaboration  
-- Initiative & result-oriented  
-- Fast learner  
-
-### 🌐 Contacts
-📫 [Telegram](https://t.me/Ttalaant) | 💼 [GitHub](https://github.com/MMMMat43) | 📧 motokolos@yandex.ru | 🌍 Russia / Remote
+Русский — родной  
+Английский — A2–B1 (чтение технической документации, работа с англоязычными источниками)
 
 ---
 
-## ⚡ Fun Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMMMat43&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MMMMat43&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MMMMat43&theme=tokyonight)
-
----
-
-✨ *“Testing is not just finding bugs — it's ensuring quality.”*
+✨ Testing is not just finding bugs — it's ensuring product quality and delivery predictability.
